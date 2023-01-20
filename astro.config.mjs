@@ -11,5 +11,4 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://github.com/StarlessDocs`,
-	
 });
