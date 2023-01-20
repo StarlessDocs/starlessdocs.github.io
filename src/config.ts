@@ -1,5 +1,6 @@
 export const SITE = {
 	title: 'SFMC cheatsheet',
+	website: 'https://starlessdocs.github.io/',
 	description: 'A concise tutorial for SFMC.',
 	defaultLanguage: 'en_US',
 };
