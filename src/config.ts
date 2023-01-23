@@ -1,3 +1,5 @@
+
+
 export const SITE = {
 	title: 'SFMC cheatsheet',
 	website: 'https://starlessdocs.github.io/',
@@ -49,11 +51,11 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	en: {
 		'Developer : Basics': [
-			{ text: 'AMPScript', link: '/ampscript-basics' },
-			{ text: 'SSJS', link: '/ssjs-basics' },
-			{ text: 'SQL for SFMC', link: '/sql-tips' },
-			{ text: 'HTML Tips', link: '/html-tips' },
-			{ text: 'CSS Tips', link: '/css-tips' },
+			{ text: 'AMPScript', link: 'ampscript-basics' },
+			{ text: 'SSJS', link: 'ssjs-basics' },
+			{ text: 'SQL for SFMC', link: 'sql-tips' },
+			{ text: 'HTML Tips', link: 'html-tips' },
+			{ text: 'CSS Tips', link: 'css-tips' },
 		],
 		/*
 		'Developer : advanced': [
