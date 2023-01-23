@@ -23,8 +23,8 @@ const sidebar = SIDEBAR[langCode];
 						<h2>{header}</h2>
 						<ul>
 							{children.map((child) => {
-								//const url = Astro.site?.pathname + child.link;
-								const url = child.link;
+								const url = Astro.site?.pathname + child.link;
+								//const url = child.link;
 								
 								return (
 									<p>Pathname = {Astro.site?.pathname}</p>
