@@ -15,6 +15,8 @@ First of all, before losing the last bit of hair you may have, here is a super u
 This will help you undertand why your email works perfectly for *every* email client but looks awful on Outlook (this is just an example, *of course*).
 Oh, now that we are talking about Outlook, here is an example : if you look for the rule `max-width` on `caniemail` you can see that it will not work on the old desktop versions of Outlook or Apple Mail (iOS).
 
+
+<!--
 ## Outlook... why do you hate me?
 
 Outlook can be ~a nightmare~ somehow tricky. Here are some tips you can use.
@@ -50,3 +52,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _susc
 
 Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
 ```
+-->

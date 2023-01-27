@@ -2,6 +2,7 @@
 title: SSJS - Basics
 description: 
 layout: ../../layouts/MainLayout.astro
+draft: true
 ---
 
 Do you like running ? Now run only with your hands.

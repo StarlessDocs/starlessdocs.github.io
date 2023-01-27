@@ -70,7 +70,7 @@ Only two types of operators are supported, `or` and `and` :
 
 `<=`   -> "is less than or equal to"
 
-
+<!--
 ## IF
 
 
@@ -127,3 +127,4 @@ SET @firstname = AttributeValue("firstname")
 ### Concat()
 
 
+-->
