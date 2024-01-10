@@ -29,3 +29,8 @@ What did you say ?! You just put "JOIN" in your queries ? You are probably query
 ## Table names
 
 Try to set aliases. You'll thank me later.
+
+# Notes à trier 
+
+Conversion de date pour gagner en performance et s'assurer que les dates sont compatible entre elles :
+CONVERT(DATE,DataExtension.weird_date) < DATE,GETDATE()
